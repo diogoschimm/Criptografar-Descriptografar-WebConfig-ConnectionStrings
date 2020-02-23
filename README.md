@@ -5,7 +5,7 @@ Comandos para Criptografar e Descriptografar a seção ConnectionString da Web.C
 
 Abrir o command prompt (CMD) como administrador na pasta de instalação da framework  
   
-**Diretorio:**  
+**DIR:**  
 C:\Windows\Microsoft.NET\Framework64\v4.0.30319  
 
 
